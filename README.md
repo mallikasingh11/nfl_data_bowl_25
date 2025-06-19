@@ -1,2 +1,4 @@
 # nfl_data_bowl_25
 Our team entered the 2025 NFL Big Data Bowl as part of our Advanced Machine Learning course in the UT McCombs MSBA program. This repo includes the data, exploratory data analysis and findings. The original data files are very large, so we have chosen not to include them in our data folder. Our exploratory data analysis and preprocessing file will handle the original files and convert them into "reduced_sax_presnap.csv", the file that all of our subsequent models use. You can either use the file we provide, or re-do the feature engineering and data cleaning from the original files with the aforementioned EDA_preprocessing Python script. 
+
+Take a look at our final presentation here: https://docs.google.com/presentation/d/1OXERR2Nef_8PRJnPS-VgDB62A8vE0pEroLKVY5dLIfA/edit?usp=sharing
